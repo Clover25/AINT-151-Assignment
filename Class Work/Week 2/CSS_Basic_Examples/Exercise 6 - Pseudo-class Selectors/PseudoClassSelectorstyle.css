@@ -6,14 +6,16 @@ ul li a:hover{
   color:red;
 }
 
-p{
+
+p:first-of-type {
   display:none;
 }
 
-span{
+
+span {
   background-color:grey;
 }
 
-div:hover p{
+div:hover p {
   display: block;
 }
